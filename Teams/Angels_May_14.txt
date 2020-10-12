@@ -1,0 +1,9 @@
+'Revere', 221,11
+'Simmons',229,20 
+'Trout', 352,19
+'Valbuena',281,10
+'Calhoon',228,22
+'Cron', 226,56
+'Maven', 185,58
+'Espinoza', 149,89
+'Graderol', 222 ,102

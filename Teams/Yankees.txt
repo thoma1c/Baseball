@@ -1,0 +1,9 @@
+'Jacob Ellsbury',263,22
+'Aaron Hicks',217,31
+'Alex Rodrigues',200,3
+'Mark Teixeira',204,24
+'Carlos Beltran',304,15
+'Starlin Castro',13,270
+'Chase Headley',253,7
+'Ronald Torreyes',258,74
+'Austin Romine',242,27

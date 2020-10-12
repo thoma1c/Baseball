@@ -1,0 +1,9 @@
+'Kevin Pillar', 311,11
+'Barney',295,20 
+'Jose Bautista', 184,19
+'Morales',242,10
+'Smoak',270,22
+'Carrera', 333,56
+'Travis', 165,58
+'Justin Goins', 235,89
+'Maile', 36 ,102

@@ -1,0 +1,9 @@
+'Segura', 368,11
+'Gamel',328,20 
+'Cruz', 323,19
+'Seager',258,10
+'Valencia',250,22
+'Motter', 234,56
+'Heredia', 315,58
+'Dyson', 217,89
+'Ruiz', 114,102

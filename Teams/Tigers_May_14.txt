@@ -1,0 +1,9 @@
+'McCan', 183,11
+'Miggy',242,20 
+'Martinez', 266,19
+'Kinsler',227,10
+'Castellanos',238,22
+'Upton', 261,56
+'Martinez', 500,58
+'Romine', 233,89
+'Machado', 200 ,102

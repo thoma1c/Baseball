@@ -1,0 +1,9 @@
+'Kevin Pillar', 266,11
+'Josh Donaldson',284,20 
+'Jose Bautista', 234,19
+'Edwin Encarnacion',357,10
+'Troy Tulowitzki',254,22
+'Michael Saunders', 253,56
+'Russel Martin', 231,58
+'Justin Smoak', 217,89
+'Ryan Goins', 186,102
